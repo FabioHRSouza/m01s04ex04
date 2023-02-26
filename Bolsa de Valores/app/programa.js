@@ -1,0 +1,1 @@
+import { NegociacaoController } from "../js/controllers/negociacaoController.js";
